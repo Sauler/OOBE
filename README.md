@@ -1,5 +1,5 @@
 ## Out of Box Experience Script
----
+Script to automation of drivers installation after clean windows install.
 ### Usage
 ``` .\OOBE.ps1 ```
 
